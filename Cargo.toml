@@ -1,0 +1,11 @@
+[package]
+name = "als"
+version = "0.0.0"
+edition = "2021"
+description = "Alternate Language Services"
+repository = "https://github.com/auriana-schissler/als/"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
